@@ -1,4 +1,4 @@
-# WebScrape2GSheets Scrpt
+# WebScrape2GSheets Script
 
 A simple script made to scrape a website and write the data it collects to a Google Sheets document.
 
