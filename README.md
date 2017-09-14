@@ -14,6 +14,6 @@ pip install pygsheets
 ```
 
 After the successful installation, you need to enable Sheets API from [google console developers](https://console.developers.google.com/apis?project=turing-booster-178614) page, add credentials and select service account key.
-From there follow the instructions and you'll download  a JSON file, rename it to service_creds.json.
+From there follow the instructions and you'll download  a JSON file, rename it to service_creds.json and put it in the folder where the script is located.
 
 That is it, now you can successfully start the script.
